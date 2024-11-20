@@ -1,4 +1,5 @@
-![Top Builder Graphic](https://github.com/user-attachments/assets/63477527-be08-45f7-9eb1-7c72790232e8)
+![Top Builder Graphic](https://github.com/user-attachments/assets/f3fd210a-4c34-4b74-9122-bd6dc28f1cfb)
+
 
 # Frequently Asked Questions for Top Builder Application
 
@@ -132,7 +133,9 @@ Overall, the Top Builder teams are selected based on their innovative approach, 
 - **Announcement**: The winner of Top Builder is announced at Austin BitDevs.
 - **Celebration**: After-party for Top Builder.
 
-![suday](https://github.com/user-attachments/assets/4e218bf7-e076-43b1-b48b-6f9e0dc3eca1)
+![suday](https://github.com/user-attachments/assets/ea47bc57-8dff-499d-97e1-86e86a42f94d)
+
+
 
 ## What is Startup Day?
 
